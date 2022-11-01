@@ -6,3 +6,6 @@ The BCDEdit is a command-line utility used to manage Boot Configuration Data (BC
 ### God Mode
 Rename the folder on Desktop as below. It will have all windows settings.
 - GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+### Print Snip
+- Shift + WIN + S
