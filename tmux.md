@@ -5,13 +5,13 @@
 - Detach session: Ctrl+B  D
 - Shows all sessions: tmux ls
 - Reattach to recent session: tmux a
-- Reattach to a session: tmux a -t <session name>
+- Reattach to a session: tmux a -t <session-name>
 - Kill a session: tmux kill-session -t vamsi
 
 ### Panes
 - Split window Vertically: Ctrl+B %
 - Split window Horizontally: Ctrl+B "
-- To shift panes: Ctrl+B <Arrow keys>
+- To shift panes: Ctrl+B <ArrowS>
 - To Jump Panes: Ctrl+B Q <Number>
 - To Change size of Pane: Ctrl+B Ctrl+<Alt/Arrow>
 - To use predesigned style: Ctrl+B Alt+<1/2/3/4/5>
